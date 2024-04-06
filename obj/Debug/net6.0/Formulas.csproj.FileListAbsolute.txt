@@ -1,0 +1,14 @@
+C:\Users\elbri\Desktop\[ ESTUDOS ] - LINGUAGEM DE PROGRAMAÇÃO\estudos csharp\Construindo-Sistema-Estacionamento-CSharp-main\formulas\bin\Debug\net6.0\Formulas.exe
+C:\Users\elbri\Desktop\[ ESTUDOS ] - LINGUAGEM DE PROGRAMAÇÃO\estudos csharp\Construindo-Sistema-Estacionamento-CSharp-main\formulas\bin\Debug\net6.0\Formulas.deps.json
+C:\Users\elbri\Desktop\[ ESTUDOS ] - LINGUAGEM DE PROGRAMAÇÃO\estudos csharp\Construindo-Sistema-Estacionamento-CSharp-main\formulas\bin\Debug\net6.0\Formulas.runtimeconfig.json
+C:\Users\elbri\Desktop\[ ESTUDOS ] - LINGUAGEM DE PROGRAMAÇÃO\estudos csharp\Construindo-Sistema-Estacionamento-CSharp-main\formulas\bin\Debug\net6.0\Formulas.dll
+C:\Users\elbri\Desktop\[ ESTUDOS ] - LINGUAGEM DE PROGRAMAÇÃO\estudos csharp\Construindo-Sistema-Estacionamento-CSharp-main\formulas\bin\Debug\net6.0\Formulas.pdb
+C:\Users\elbri\Desktop\[ ESTUDOS ] - LINGUAGEM DE PROGRAMAÇÃO\estudos csharp\Construindo-Sistema-Estacionamento-CSharp-main\formulas\obj\Debug\net6.0\Formulas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elbri\Desktop\[ ESTUDOS ] - LINGUAGEM DE PROGRAMAÇÃO\estudos csharp\Construindo-Sistema-Estacionamento-CSharp-main\formulas\obj\Debug\net6.0\Formulas.AssemblyInfoInputs.cache
+C:\Users\elbri\Desktop\[ ESTUDOS ] - LINGUAGEM DE PROGRAMAÇÃO\estudos csharp\Construindo-Sistema-Estacionamento-CSharp-main\formulas\obj\Debug\net6.0\Formulas.AssemblyInfo.cs
+C:\Users\elbri\Desktop\[ ESTUDOS ] - LINGUAGEM DE PROGRAMAÇÃO\estudos csharp\Construindo-Sistema-Estacionamento-CSharp-main\formulas\obj\Debug\net6.0\Formulas.csproj.CoreCompileInputs.cache
+C:\Users\elbri\Desktop\[ ESTUDOS ] - LINGUAGEM DE PROGRAMAÇÃO\estudos csharp\Construindo-Sistema-Estacionamento-CSharp-main\formulas\obj\Debug\net6.0\Formulas.dll
+C:\Users\elbri\Desktop\[ ESTUDOS ] - LINGUAGEM DE PROGRAMAÇÃO\estudos csharp\Construindo-Sistema-Estacionamento-CSharp-main\formulas\obj\Debug\net6.0\refint\Formulas.dll
+C:\Users\elbri\Desktop\[ ESTUDOS ] - LINGUAGEM DE PROGRAMAÇÃO\estudos csharp\Construindo-Sistema-Estacionamento-CSharp-main\formulas\obj\Debug\net6.0\Formulas.pdb
+C:\Users\elbri\Desktop\[ ESTUDOS ] - LINGUAGEM DE PROGRAMAÇÃO\estudos csharp\Construindo-Sistema-Estacionamento-CSharp-main\formulas\obj\Debug\net6.0\Formulas.genruntimeconfig.cache
+C:\Users\elbri\Desktop\[ ESTUDOS ] - LINGUAGEM DE PROGRAMAÇÃO\estudos csharp\Construindo-Sistema-Estacionamento-CSharp-main\formulas\obj\Debug\net6.0\ref\Formulas.dll
